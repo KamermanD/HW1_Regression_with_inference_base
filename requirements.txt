@@ -3,3 +3,8 @@ pydantic
 pandas
 scikit-learn
 uvicorn
+matplotlib
+seaborn
+ydata-profiling
+tqdm
+ipywidgets
