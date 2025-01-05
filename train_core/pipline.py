@@ -93,7 +93,3 @@ pipeline = Pipeline(steps=[
     ('preprocessor', preprocessor),  
     ('regressor', LinearRegression()) 
 ])
-
-target_scaler = Pipeline(steps=[
-    ('scaler', StandardScaler())
-])
